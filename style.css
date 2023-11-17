@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+
+h1{
+    color:midnightblue;
+    margin:20px;
+    text-align: center;
+    
+}
+
+.container{
+    color:midnightblue;
+    margin:20px;
+    
+}
+.align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    text-align: center;
+    margin:7px;
+    font-size: larger;
+    color: rgb(98, 28, 164);
+    cursor: pointer;
+}
+
+#input{
+    border-radius: 10px;
+    padding:5px;
+    font-size:larger;
+    color: mediumturquoise;
+    background-color: midnightblue;
+    
+}
+
+#button{
+    margin:5px;
+    padding:7px;
+    border-radius: 10px;
+    color: mediumturquoise;
+    background-color: midnightblue;
+    font-size:larger;
+    cursor: pointer;
+}
